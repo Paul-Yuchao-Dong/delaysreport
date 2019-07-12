@@ -1,0 +1,13 @@
+Package: delaysreport
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Paul",
+           family = "Dong",
+           role = c("aut", "cre"),
+           email = "paul.ycdong@gmail.com")
+Description: Monthly report on top 5 causes for delay for each
+    TTC line.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
