@@ -11,3 +11,5 @@ Description: Monthly report on top 5 causes for delay for each
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/Paul-Yuchao-Dong/delaysreport
+BugReports: https://github.com/Paul-Yuchao-Dong/delaysreport/issues
